@@ -1,2 +1,4 @@
 /wyklady
 jupyter_guide.ipynb
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
